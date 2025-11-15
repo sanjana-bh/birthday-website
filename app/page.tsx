@@ -864,7 +864,7 @@ export default function Home() {
               
               <div className="gif-container">
                 <img 
-                  src="https://idmyjkxlwqdbz3tt.public.blob.vercel-storage.com/iuu.gif"
+                  src="https://idmyjkxlwqdbz3tt.public.blob.vercel-storage.com/cuidados.gif"
                   alt="Cute romantic animation"
                   className="love-gif"
                 />
